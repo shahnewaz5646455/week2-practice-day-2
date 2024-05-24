@@ -1,0 +1,98 @@
+.product-card{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    box-shadow: 4px 4px 8px rgb(48, 49, 49);
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+}
+.details{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+
+}
+.add-card{
+    width: 100%;
+    height: auto;
+    margin: 10px;
+    box-shadow: 4px 4px 8px rgb(48, 49, 49);
+    border-radius: 8px;
+    background-color: rgb(33, 206, 177);
+}
+.cart-img{
+    width: 70px;
+}
+.s11{
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+    height: 600px;
+    margin: 10px;
+    box-shadow: 4px 4px 8px rgb(48, 49, 49);
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+
+}
+.cart-container{
+    width:800px ;
+    background-color: #fff;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.product-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.card-img{
+    width: 200px;
+    margin: auto;
+    margin-top: 5px;
+}
+.img{
+    width: 200px;
+    border-radius: 8px;
+
+}
+.bt{
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    background-color: rgb(237, 17, 76);
+    color: aliceblue;margin: 8px;
+}
+.pt1{
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    background-color: rgba(8, 255, 160, 0.286);
+    color: rgb(0, 0, 0);margin: 8px;
+}
+
+.sea{
+    
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.sear-container{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
